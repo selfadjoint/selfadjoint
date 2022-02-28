@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Daniel, junior data analyst 👋
+
+
+## Contacts
+[<img align="left" alt="db | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="db | email" width="26px" src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-email-multimedia-kiranshastry-solid-kiranshastry-1.png" />][email]
 
 <!--
 **selfadjoint/selfadjoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[linkedin]: https://www.linkedin.com/in/daniel-bulgadaryan/
+[email]: mailto://dgbulgadaryan@gmail.com
