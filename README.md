@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel, Data Engineer at Valiotti Analytics 👋
+### Hi there, I'm Daniel, Data & Analytics Engineer👋
 
 
 ## Contacts
