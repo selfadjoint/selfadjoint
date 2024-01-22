@@ -10,3 +10,16 @@ Welcome to my GitHub space! I'm a passionate Data Analyst currently diving deep 
 - **Cost Optimization:** Implementing strategies to streamline operations and reduce expenses.
 
 👯 **Collaboration:** I'm open to collaborating on projects related to data analysis, data engineering, or any innovative idea that can benefit from my skill set. Let's connect and create something amazing!
+
+### Languages and Tools:
+
+<p align="left">
+  <!-- Python Icon -->
+  <a href="www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <!-- SQL Icon -->
+  <a href="www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a>
+  <!-- AWS Icon -->
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <!-- Add other icons here -->
+</p>
+
