@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel!👋
+## Hi there, I'm Daniel!👋
 
 Welcome to my GitHub space! I'm a passionate Data Analyst currently diving deep into the fascinating world of FinOps at [Align Technology](aligntech.com). My journey in data has led me through an array of challenges and exciting projects, each fueling my drive to turn data into actionable insights and efficient solutions.
 
@@ -17,7 +17,8 @@ Welcome to my GitHub space! I'm a passionate Data Analyst currently diving deep 
   <!-- Python Icon -->
   <a href="www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <!-- SQL Icon -->
-  <a href="www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a>
+  a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/></a>
+  <a href="www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <!-- AWS Icon -->
   <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <!-- Add other icons here -->
