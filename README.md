@@ -1,23 +1,12 @@
-### Hi there, I'm Daniel, Data & Analytics Engineer👋
+### Hi there, I'm Daniel!👋
 
+Welcome to my GitHub space! I'm a passionate Data Analyst currently diving deep into the fascinating world of FinOps at [Align Technology](aligntech.com). My journey in data has led me through an array of challenges and exciting projects, each fueling my drive to turn data into actionable insights and efficient solutions.
 
-## Contacts
-[<img align="left" alt="db | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="db | email" width="26px" src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-email-multimedia-kiranshastry-solid-kiranshastry-1.png" />][email]
+🔭 **Currently Working On:** As part of the FinOps team, I'm focused on automating cloud cost forecasting and developing effective data pipelines. My goal? To optimize cloud costs and empower data-driven decisions.
 
-<!--
-**selfadjoint/selfadjoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **What I Do:** I specialize in:
+- **Data Engineering:** Building and optimizing data pipelines, and ensuring high data quality.
+- **Business Intelligence Reporting:** Creating both regular and ad-hoc reports for comprehensive insights.
+- **Cost Optimization:** Implementing strategies to streamline operations and reduce expenses.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[linkedin]: https://www.linkedin.com/in/daniel-bulgadaryan/
-[email]: mailto://dgbulgadaryan@gmail.com
+👯 **Collaboration:** I'm open to collaborating on projects related to data analysis, data engineering, or any innovative idea that can benefit from my skill set. Let's connect and create something amazing!
