@@ -26,5 +26,5 @@ Welcome to my GitHub space! I'm a passionate Data Analyst currently diving deep 
   <!-- Add other icons here -->
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfadjoint)](https://github.com/selfadjoint/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfadjoint)](https://github.com/anuraghazra/github-readme-stats)
 
