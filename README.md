@@ -23,8 +23,10 @@ Welcome to my GitHub space! I'm a passionate Data Analyst currently diving deep 
   <!-- SQL Icon -->
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/></a>
   <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>  
- <a href="https://kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
+ <a href="https://www.kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
  alt="kafka" width="40" height="40"/></a>
+  <a href="https://www.atlassian.com/software/bamboo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bamboo/bamboo-original.svg"
+ alt="bamboo" width="40" height="40"/></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfadjoint)](https://github.com/anuraghazra/github-readme-stats)
