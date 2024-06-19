@@ -16,7 +16,7 @@ Welcome to my GitHub space! I'm a passionate Data Analyst currently diving deep 
 <p align="left">
   <!-- Python Icon -->
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.airflow.apache.org/"><img src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
+  <a href="https://airflow.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
  alt="airflow" width="40" height="40"/></a>
   <!-- AWS Icon -->
   <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
