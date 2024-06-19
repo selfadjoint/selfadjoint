@@ -16,17 +16,25 @@ Welcome to my GitHub space! I'm a passionate Data Analyst currently diving deep 
 <p align="left">
   <!-- Python Icon -->
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.airflow.apache.org/"><img src="ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"
+ alt="airflow" width="40" height="40"/></a>
   <!-- AWS Icon -->
   <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.terraform.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/></a>
   <!-- SQL Icon -->
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/></a>
-  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>  
+  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/dynamodb/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg"
+ alt="dynamodb" width="40" height="40"/></a>
  <a href="https://www.kafka.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
  alt="kafka" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/bamboo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bamboo/bamboo-original.svg"
  alt="bamboo" width="40" height="40"/></a>
+  <a href="https://www.jupyter.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+ alt="jupyter" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+ alt="bash" width="40" height="40"/></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfadjoint)](https://github.com/anuraghazra/github-readme-stats)
