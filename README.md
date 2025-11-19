@@ -35,10 +35,8 @@ Welcome to my GitHub space! I'm a Senior Data Engineer passionate about building
  alt="jupyter" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
  alt="bash" width="40" height="40"/></a>
-  <a href="https://www.getdbt.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/></a>
-  <a href="https://clickhouse.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" alt="clickhouse" width="40" height="40"/></a>
-  <a href="https://www.mage.ai/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mage/mage-original.svg" alt="mage" width="40" height="40"/></a>
-</p>
+<a href="https://www.getdbt.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbt.svg" alt="dbt" width="40" height="40"/></a>  <a href="https://clickhouse.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" alt="clickhouse" width="40" height="40"/></a>
+<a href="https://www.mage.ai/"><img src="https://raw.githubusercontent.com/mage-ai/mage/master/mage/frontend/public/logo_only_rounded.png" alt="mage" width="40" height="40"/></a></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfadjoint)](https://github.com/anuraghazra/github-readme-stats)
 
