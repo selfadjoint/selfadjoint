@@ -37,6 +37,5 @@ Welcome to my GitHub space! I'm a Senior Data Engineer passionate about building
  alt="bash" width="40" height="40"/></a>
 <a href="https://www.getdbt.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbt.svg" alt="dbt" width="40" height="40"/></a>  <a href="https://clickhouse.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" alt="clickhouse" width="40" height="40"/></a>
 <a href="https://www.mage.ai/"><img src="https://raw.githubusercontent.com/mage-ai/mage/master/mage/frontend/public/logo_only_rounded.png" alt="mage" width="40" height="40"/></a></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfadjoint)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.mage.ai/"><img src="https://api.iconboard.com/public/img/21c6bfc99f5b4c9ba8c0b41e29afb7a2.png" alt="mage" width="40" height="40"/></a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfadjoint)](https://github.com/anuraghazra/github-readme-stats)
 
