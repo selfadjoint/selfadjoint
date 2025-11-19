@@ -1,8 +1,8 @@
 ## Hi there, I'm Daniel!👋
 
-Welcome to my GitHub space! I'm a passionate Data Analyst currently diving deep into the fascinating world of FinOps. My journey in data has led me through an array of challenges and exciting projects, each fueling my drive to turn data into actionable insights and efficient solutions.
+Welcome to my GitHub space! I'm a Senior Data Engineer passionate about building reliable, scalable data platforms that bridge analytics, engineering, and strategy.
 
-🔭 **Currently Working On:** As part of the FinOps team, I'm focused on automating cloud cost forecasting and developing effective data pipelines. My main goal is to optimize cloud costs and empower data-driven decisions.
+🔭 **Currently Working On:** As part of the Research, Engineering & Development unit, I’m focused on advancing our data platform - designing resilient architectures, automating workflows, and enabling data products that support innovation and informed decision-making.
 
 📊 **What I Do:** I specialize in:
 - **Data Engineering:** Building and optimizing data pipelines, and ensuring high data quality.
